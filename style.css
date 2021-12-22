@@ -1,0 +1,32 @@
+#carrera{
+	background-image: url("road.png");
+}
+
+html{
+	background-color: grey ;
+}
+
+.coche{
+	position: relative;
+	display: block;
+	margin-left: 0px;
+	max-width: 7%;
+	object-fit: contain;
+}
+
+h1,form{
+	margin-left: 45%;
+	align-content: center;	
+	color: yellow;
+}
+
+#caja{
+	border-style: dashed;
+	display: block;
+	padding: 10px;
+	background-image: url(bandera.jpg);
+}
+
+#inicio,#reinicio{
+	margin-left: 55%;
+}
